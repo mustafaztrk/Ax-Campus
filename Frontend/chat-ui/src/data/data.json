@@ -1,0 +1,167 @@
+{
+  "Header": {
+    "title": "Welcome To Ax Campus",
+    "paragraph":"Thanks to this website, you can participate in the events at Kırıkkale University and create new events."
+  },
+  "About": {
+    "paragraph1":" Welcome to our campus management system website specially designed for Kırıkkale University students! Here, you will find a range of useful features to make your campus life easier and more enjoyable. ",
+    "paragraph2":"As students, we have designed this website to help you better organize your day and enhance your interactions within the campus. Through the real-time messaging group, you can communicate with other students, share your questions, and seek assistance. In the Events section, you can participate in activities created by both you and other students, or even create your own events. This way, you won't miss out on various opportunities happening on campus, from conferences to seminars, and social events. ",
+    "paragraph3":"The real-time messaging group and events section on our website are designed to strengthen communication among students, facilitate better acquaintance, and encourage more social interaction in campus life. On this platform, you can connect with students from different faculties, interact with individuals who share common interests, and establish connections with various events taking place on your campus. ",
+    "paragraph4":"We are always available to address your questions, feedback, or suggestions. Feel free to reach out to us. ",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Click to enlarge",
+      "largeImage": "img/portfolio/01-small.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Click to enlarge",
+      "largeImage": "img/portfolio/02-small.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Click to enlarge",
+      "largeImage": "img/portfolio/03-small.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title":"Click to enlarge",
+      "largeImage": "img/portfolio/04-small.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Click to enlarge",
+      "largeImage": "img/portfolio/05-small.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Click to enlarge",
+      "largeImage": "img/portfolio/06-small.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title":"Click to enlarge",
+      "largeImage": "img/portfolio/07-small.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Click to enlarge",
+      "largeImage": "img/portfolio/08-small.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Click to enlarge",
+      "largeImage": "img/portfolio/09-small.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-bicycle ",
+      "name": "Tour the campus by bike",
+      "text": "You can explore the campus on your bike thanks to the bike paths that surround the university from end to end. Create an event right away and find yourself a travel companion."
+    },
+    {
+      "icon": "fa fa-tree",
+      "name": "Participate in camp events",
+      "text": "The natural beauties in Kırıkkale offer an ideal environment for camping enthusiasts. It is an ideal environment to immerse yourself in nature with its green areas and Kızılırmak River."
+    },
+    {
+      "icon": "fa fa-futbol-o",
+      "name": "Lorem ipsum dolor",
+      "text": "Get active, participate in sporting events, create your own and put your health first with our Ax Campus. Organize events in the football and basketball courts located on campus. Adopt a fit and fun lifestyle! "
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Connect & Make Friends with AX Campus",
+      "text": "Connect and expand your social circle with AX Campus to make new friends and build meaningful connections."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Explore countries",
+      "text": "Participate in tourist events and discover new countries with new friends"
+    },
+    {
+      "icon": "fa fa-book",
+      "name": "Keep in shape",
+      "text": "Discover Common Ground with New Friends Who Can Help You in Your Classes. Create Study Events and Collaborate with Other Students!"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Thanks to the campus management system website, we can easily communicate among students. It's a great experience to participate in events and meet new people!\"",
+      "name": "Metin TPC"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"This website has made campus life much more organized. We can message our friends, create events, and have a wonderful time.\"",
+      "name": "Burak Dogan"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"The real-time messaging group is really useful! I get quick answers to my questions and I'm always updated about campus events..\"",
+      "name": "Can Ciftci"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"The campus management system website has helped me actively engage in campus life. I join interesting events and make new friends. It's a fantastic platform!\"",
+      "name": "Gökhan Gök"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"With this website, it's impossible to miss out on campus events! I always have access to up-to-date information and it enhances social interaction. It's a great resource for students.\"",
+      "name": "Fatih Yılmaz"
+    }
+   
+  ],
+  "Team": [
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mustafa ÖZTÜRK",
+      "job": "Devoloper"
+    },
+    {
+      "img": "img/team/01.png",
+      "name": "Chat Gpt",
+      "job": "Devoloper"
+    }
+  ],
+  "Contact": {
+    "address": " Kırıkkale Ankara Yolu 7.Km. Kırıkkale Üniversitesi Kampüsü Yahşihan/ KIRIKKALE ",
+    "phone": "05385910602",
+    "email": "zturkkmustafa@gmail.com"
+   
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Real Group Chat"
+    },
+    {
+      "icon": "fa fa-calendar",
+      "title": "Follow The Activities On Campus"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Make New Friends"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Create Your Own Event"
+    }
+  ]
+}
